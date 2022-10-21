@@ -2,7 +2,8 @@
 
 ## <1> reconaisance
 
-```sans accer : 
+```
+sans accer : 
 	nmap -A -p- -v <ip>
 	verifier les vertion sur expoit db
 	il faut tout noter
