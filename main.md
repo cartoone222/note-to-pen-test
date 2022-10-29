@@ -2,7 +2,7 @@
 
 ## <1> reconaisance
 
-```bash
+```
 sans accer : 
 	nmap -A -p- -v <ip>
 	verifier les vertion sur expoit db
@@ -19,7 +19,7 @@ avec accer:
 
 ## <2> attaque
 
-```bash
+```
 smbclien -> smb
 hydra -> force brut sur plain de truc (a aprofondir)
 
